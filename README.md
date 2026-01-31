@@ -34,7 +34,8 @@ A tool for optimizing the company's internal processes, built on Next.js and Typ
     *   **[Next.js](https://nextjs.org/)**: Реактивный фреймворк для серверного рендеринга (SSR), статической генерации (SSG) и маршрутизации.
     *   **[TypeScript](https://www.typescriptlang.org/)**: Надвижка на JavaScript, обеспечивающая статическую типизацию для повышения надежности и поддерживаемости кода.
     *   **[Tailwind CSS](https://tailwindcss.com/)** Утилитарный CSS-фреймворк для быстрой и гибкой стилизации.
-    *   **Redux Toolkit (https://redux-toolkit.js.org/)): Для управления состоянием приложения.
+    *   **[Zustand](https://zustand-demo.pmnd.rs/)**
+Для управления состоянием приложения.
 *   **Backend / Data Layer:**
     *   **Next.js API Routes**: Использовались для создания простых API-эндпоинтов, обрабатывающих запросы к данным (CRUD-операции для задач и клиентов).
     *   **Локальное хранилище (Local Storage)**: Для демонстрации персистентности данных без полноценной базы данных (если это так).
